@@ -6,3 +6,4 @@ ancient version	    1.8
 gregonanti          pregnant (@RedaAM)
 N and MS            NMS (@Coll1234567)
 happenedi           What happened? (@VERANO123)
+paided              paid
